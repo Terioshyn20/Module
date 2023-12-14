@@ -1,0 +1,14 @@
+C:\Users\teres\source\repos\module\module\bin\Debug\net6.0\module.exe
+C:\Users\teres\source\repos\module\module\bin\Debug\net6.0\module.deps.json
+C:\Users\teres\source\repos\module\module\bin\Debug\net6.0\module.runtimeconfig.json
+C:\Users\teres\source\repos\module\module\bin\Debug\net6.0\module.dll
+C:\Users\teres\source\repos\module\module\bin\Debug\net6.0\module.pdb
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\module.AssemblyInfoInputs.cache
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\module.AssemblyInfo.cs
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\module.csproj.CoreCompileInputs.cache
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\module.dll
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\refint\module.dll
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\module.pdb
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\module.genruntimeconfig.cache
+C:\Users\teres\source\repos\module\module\obj\Debug\net6.0\ref\module.dll
